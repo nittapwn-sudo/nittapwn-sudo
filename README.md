@@ -40,3 +40,5 @@
 | [👥 Employee Data Management (BIS)](https://github.com/mizteramericano/BIS) | Gathered HR requirements with Mitsubishi Electric; designed the MySQL schema incl. salary & position history | MySQL, JavaScript, React, Node.js |
 | [🏫 CPSU Room Reservation System](https://github.com/OnchumaT/cpsu-room-reservation) | Designed a 17-table MySQL database and built a full-stack booking system with conflict detection, approval workflow and dashboard statistics | MySQL, Prisma, JavaScript, React, Node.js/Express |
 | [💰 Income & Expense Website](https://www.figma.com/proto/hURWEEdR5xubQyV5aWoIdb/HCI?node-id=263-256&starting-point-node-id=263%3A256) | Designed a personal finance prototype with summary dashboard and data visualization | Figma |
+
+
