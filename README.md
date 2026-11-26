@@ -1,2 +1,0 @@
-# nittapwn
-My GitHub profile
