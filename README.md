@@ -11,7 +11,7 @@
 ### 🙋‍♀️ About Me
 - 🎓 B.Sc. Information Technology, Faculty of Science, Silpakorn University (2021–2026)
 - 📊 Interested in applying data analysis to **retail, e-commerce and fulfillment**
-- 📝 Submitted machine-learning research to **AUCC 2024** (12th Asia Undergraduate Conference on Computing)
+- 📝 Submitted machine-learning research to **AUC2 2024** (12th Asia Undergraduate Conference on Computing)
 - 🗄️ Hands-on experience in relational database design and **SQL (MySQL)**
 - 🤝 Experienced in gathering requirements from business stakeholders and turning them into data solutions
 - 🔍 Open to **Data Analyst / Business Intelligence Analyst** roles
@@ -36,7 +36,7 @@
 ### 📌 Featured Projects
 | Project | What I did | Tech |
 |---|---|---|
-| [🏨 Hotel Cancellation Analysis](https://github.com/nittapwn-sudo/nittapwn/tree/main/projects/hotel-cancellation-ml) | Analyzed 36,275 bookings; found lead time & special requests as key cancellation drivers; compared Decision Tree & Logistic Regression — paper submitted to AUCC 2024 | Python, Colab |
+| [🏨 Hotel Cancellation Analysis](https://github.com/nittapwn-sudo/nittapwn-sudo/tree/main/projects/hotel-cancellation-ml) | Analyzed 36,275 bookings; found lead time & special requests as key cancellation drivers; compared Decision Tree & Logistic Regression — paper submitted to AUC2 2024 | Python, Colab |
 | [👥 Employee Data Management (BIS)](https://github.com/mizteramericano/BIS) | Gathered HR requirements with Mitsubishi Electric; designed the MySQL schema incl. salary & position history | MySQL, JavaScript, React, Node.js |
 | [🏫 CPSU Room Reservation System](https://github.com/OnchumaT/cpsu-room-reservation) | Designed a 17-table MySQL database and built a full-stack booking system with conflict detection, approval workflow and dashboard statistics | MySQL, Prisma, JavaScript, React, Node.js/Express |
 | [💰 Income & Expense Website](https://www.figma.com/proto/hURWEEdR5xubQyV5aWoIdb/HCI?node-id=263-256&starting-point-node-id=263%3A256) | Designed a personal finance prototype with summary dashboard and data visualization | Figma |
