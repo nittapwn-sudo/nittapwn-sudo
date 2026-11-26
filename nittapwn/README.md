@@ -38,8 +38,4 @@
 | [👥 Employee Data Management (BIS)](https://github.com/mizteramericano/BIS) | Gathered HR requirements with Mitsubishi Electric; designed the MySQL schema incl. salary & position history | MySQL, React, Node.js |
 | 💰 Income & Expense Website | Prototype for tracking personal income/expenses with summary dashboard | Figma |
 
-### 📈 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nittapwn-sudo&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nittapwn-sudo&layout=compact&hide_border=true"/>
-</p>
+
